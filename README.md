@@ -1,2 +1,0 @@
-# MIDI-Controller-
-Profielwerkstuk Code 
